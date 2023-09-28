@@ -3,7 +3,7 @@
 OrangeHRM MyInfo Module
 
 # Authors:
-AfsanaST
+Afsana Suma
 
 # Tech or Software:
 MS WORD,MS EXCEL
